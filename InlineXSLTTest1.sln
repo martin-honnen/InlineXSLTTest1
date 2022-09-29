@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InlineXSLTTest1", "InlineXSLTTest1.csproj", "{86854F47-C4F2-40EB-B5C1-1491D7A0C2B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86854F47-C4F2-40EB-B5C1-1491D7A0C2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86854F47-C4F2-40EB-B5C1-1491D7A0C2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86854F47-C4F2-40EB-B5C1-1491D7A0C2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86854F47-C4F2-40EB-B5C1-1491D7A0C2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D64CF1-4F49-4841-9FAD-C1074CAF2139}
+	EndGlobalSection
+EndGlobal
